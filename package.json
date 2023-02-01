@@ -22,7 +22,7 @@
     "express-partials": "^0.3.0",
     "lodash": "^4.17.4",
     "mongodb": "^3.5.9",
-    "mongoose": "^5.9.20",
+    "mongoose": "^5.13.15",
     "mysql": "^2.12.0",
     "node-mocks-http": "^1.6.1",
     "request": "^2.34.0"
